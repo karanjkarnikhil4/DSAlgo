@@ -1,0 +1,9 @@
+
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8½š§ÈÌ.
+Nsquid:S1068
+"+Remove this unused "scanner" private field.(‚ïèıÿÿÿÿ8½š§ÈÌ.
+_squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8½š§ÈÌ.
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¼ø§ÈÌ.
+>squid:S2129"" Remove this "String" constructor(‘²Úø8¼ø§ÈÌ.
+]squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8½š§ÈÌ.

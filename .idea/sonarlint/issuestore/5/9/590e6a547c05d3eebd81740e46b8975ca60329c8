@@ -1,0 +1,7 @@
+
+Msquid:S1481:"*Remove this unused "value" local variable.(º†¿Úúÿÿÿÿ8ôåªÏÌ.
+Msquid:S00108:")Either remove or fill this block of code.(º†¿Úúÿÿÿÿ8ôåªÏÌ.
+_squid:S1854&"ARemove this useless assignment to local variable "isStringValid".(ÇáÕ’8¾¤ÍÎÌ.
+Psquid:S1481"2Remove this unused "isStringValid" local variable.(ƒ®Ê8Ìã³ÎÌ.
+osquid:S2095E"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ8¥™ÎÌ.
+Zsquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Ìã³ÎÌ.

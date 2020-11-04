@@ -1,0 +1,13 @@
+
+Fsquid:S1659"#Declare "count" on a separate line.(ÉÕ•éüÿÿÿÿ8üŠÃÌ.
+]squid:CallToDeprecatedMethodF".Remove this use of "Double"; it is deprecated.(ô¢€™8‹—ÒÅÌ.
+Bsquid:S1659"Declare "j" on a separate line.(ÉÕ•éüÿÿÿÿ8üŠÃÌ.
+]squid:CallToDeprecatedMethodF".Remove this use of "Double"; it is deprecated.(ô¢€™8˜±ÎÅÌ.
+Nsquid:S1068"+Remove this unused "scanner" private field.(‚ïèıÿÿÿÿ8¸“ÃÌ.
+>squid:S2129F" Remove this "Double" constructor(ô¢€™8‹—ÒÅÌ.
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ò»œÅÌ.
+¤%squid:RedundantThrowsDeclarationCheckQ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ç†ÏÃÌ.
+>squid:S2129F" Remove this "Double" constructor(ô¢€™8‹—ÒÅÌ.
+>squid:S2129F" Remove this "Double" constructor(ô¢€™8˜±ÎÅÌ.
+]squid:CallToDeprecatedMethodF".Remove this use of "Double"; it is deprecated.(ô¢€™8‹—ÒÅÌ.

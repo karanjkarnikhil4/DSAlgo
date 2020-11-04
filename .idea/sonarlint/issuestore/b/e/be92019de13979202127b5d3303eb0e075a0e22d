@@ -1,0 +1,19 @@
+
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(Ø¶ §üÿÿÿÿ8âÆƒØÌ.
+Nsquid:S1068"+Remove this unused "scanner" private field.(‚ïèýÿÿÿÿ8âÆƒØÌ.
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(Áíýµÿÿÿÿÿ8âÆƒØÌ.
+Msquid:S1066+"/Merge this if statement with the enclosing one.(ô®¶Ì8ÝÁÝ×Ì.
+\squid:S11553">Use isEmpty() to check whether the collection is empty or not.(ÁÑ•¹8øøç×Ì.
+¤%squid:RedundantThrowsDeclarationCheck?"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¥“„ØÌ.
+>squid:S2129H" Remove this "String" constructor(ž¼Áø8¥“„ØÌ.
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ8âÆƒØÌ.
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Ô¿ôöøÿÿÿÿ8âÆƒØÌ.
+isquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(êË¥ì8âÆƒØÌ.
+Xsquid:S1854H":Remove this useless assignment to local variable "result".(ž¼Áø8âÆƒØÌ.
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(Õè†–ýÿÿÿÿ8âÆƒØÌ.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(†Ìº‘þÿÿÿÿ8øøç×Ì.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÚ«ó
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8þÆ×Ì.
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(«–€8Ã·ñ×Ì.
+Isquid:S1481H"+Remove this unused "result" local variable.(ž¼Áø8âÆƒØÌ.

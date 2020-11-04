@@ -1,0 +1,10 @@
+
+nsquid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(à·úÕ8»ûÄñÌ.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(›Êáşÿÿÿÿ8»ûÄñÌ.
+‰squid:S2234"fParameters to pushFromStackToStack have the same names but not the same order as the method arguments.(Üß°šşÿÿÿÿ8»ûÄñÌ.
+ssquid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(©¾¤¤ıÿÿÿÿ8»ûÄñÌ.
+nsquid:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê¨ˆÕ8»ûÄñÌ.
+nsquid:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê¨ˆÕ8»ûÄñÌ.
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÚ«ó8éçÅñÌ.
