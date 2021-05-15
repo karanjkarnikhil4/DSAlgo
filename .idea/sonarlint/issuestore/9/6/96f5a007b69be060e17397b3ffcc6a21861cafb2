@@ -1,0 +1,7 @@
+
+8
+java:S3626+"Remove this redundant jump.(ûÁİ…8¥‡¤ıî.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8õÿ•üî.
+
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©¶8¥‡¤ıî.

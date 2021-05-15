@@ -23,7 +23,7 @@ public class PairsWithGivenSum {
             for (int i = 0; i < n; i++) {
                 arr[i] = Integer.parseInt(inputLine[i]);
             }
-            int ans = new Solution().getPairsCount(arr, n, k);
+            int ans = new org.coding.arrays.Solution1234().getPairsCount(arr, n, k);
             System.out.println(ans);
         }
     }
@@ -33,7 +33,7 @@ public class PairsWithGivenSum {
 
 //User function Template for Java
 
-class Solution {
+  class Solution1234 {
     int getPairsCount(int[] arr, int n, int k) {
        Map<Integer, List<Integer>> map = new HashMap();
        int numberOfPairs = 0;

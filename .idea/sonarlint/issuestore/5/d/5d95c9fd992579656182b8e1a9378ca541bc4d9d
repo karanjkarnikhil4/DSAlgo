@@ -1,0 +1,11 @@
+
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(å×ñûÿÿÿÿ8ý’Ž¦ï.
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‘ŠäÖ8ý’Ž¦ï.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ý’Ž¦ï.
+]	java:S125c"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ý’Ž¦ï.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(‹¯šùÿÿÿÿ8ý’Ž¦ï.
+8
+java:S3626z"Remove this redundant jump.(ôñþ—8¦º©¦ï.
+U
+java:S1197"8Move the array designator from the variable to the type.(ë¥Ï§8ý’Ž¦ï.

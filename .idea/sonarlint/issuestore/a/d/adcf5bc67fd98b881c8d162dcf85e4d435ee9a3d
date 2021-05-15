@@ -1,0 +1,14 @@
+
+E
+java:S1659"#Declare "right" on a separate line.(ÒÖÇŽùÿÿÿÿ8Å—ÀÑï.
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Å—ÀÑï.
+X	java:S125v"<This block of commented-out lines of code should be removed.(Ú°à¬8Å—ÀÑï.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(‹¯šùÿÿÿÿ8Å—ÀÑï.
+U
+java:S1197"8Move the array designator from the variable to the type.(ë¥Ï§8Å—ÀÑï.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(’œ›“8Å—ÀÑï.
+[
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(‘ŠäÖ8Å—ÀÑï.
+X	java:S125o"<This block of commented-out lines of code should be removed.(Ú°à¬8Å—ÀÑï.
+
+java:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¡÷ø~8×•ÓÑï.

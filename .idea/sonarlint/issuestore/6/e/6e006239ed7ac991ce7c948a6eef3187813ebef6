@@ -1,0 +1,6 @@
+
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(¦ÕŒêøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¨ç€‚ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(€ƒœú
+\
+java:S2259c"AA "NullPointerException" could be thrown; "ans" is nullable here.(¦ÕŒêøÿÿÿÿ
