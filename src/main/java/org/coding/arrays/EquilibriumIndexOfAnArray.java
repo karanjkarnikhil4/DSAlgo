@@ -26,31 +26,27 @@ public class EquilibriumIndexOfAnArray {
 
     private static int getEquilibriumPoint(int[] arr, int n) {
 
-        if(n== 1)
-        {
+        if (n == 1) {
             return arr[0];
         }
 
-        int totalSum =0;
-        int leftSum =0;
+        int totalSum = 0;
+        int leftSum = 0;
         Integer equilibriumPoint = -1;
 
-        for (int i =0; i < arr.length; i++)
-        {
-            totalSum = totalSum+arr[i];
+        for (int i = 0; i < arr.length; i++) {
+            totalSum = totalSum + arr[i];
         }
 
-        for (int j =0; j < arr.length; j++)
-        {
-            int rightSum = totalSum - leftSum- arr[j];
+        for (int j = 0; j < arr.length; j++) {
+            int rightSum = totalSum - leftSum - arr[j];
 
-            if(rightSum == leftSum)
-            {
-                  equilibriumPoint = j+1;
-                  break;
+            if (rightSum == leftSum) {
+                equilibriumPoint = j + 1;
+                break;
             }
 
-            leftSum = leftSum+arr[j];
+            leftSum = leftSum + arr[j];
         }
 
         return equilibriumPoint;
